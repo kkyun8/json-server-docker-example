@@ -1,0 +1,123 @@
+{
+"order_status":
+[
+  {
+    "id": 1, 
+    "name": "仮登録",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 2, 
+    "name": "決済完了・写真未登録",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 3, 
+    "name": "写真登録済み・作家連絡待ち",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 4, 
+    "name": "作家作業中",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 5, 
+    "name": "作家完了",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 6, 
+    "name": "発送準備",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 7, 
+    "name": "発送中",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 8, 
+    "name": "発送済み",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  }
+],
+"order_types":
+[
+  {
+    "id": 1, 
+    "name": "カップル",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 2, 
+    "name": "プレゼント",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 3, 
+    "name": "引退式",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 4, 
+    "name": "結婚式",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  }
+],
+"production_times":
+[
+  {
+    "id": 1, 
+    "name": "１週間以内",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 2, 
+    "name": "１週間〜２週間",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 3, 
+    "name": "３週間ほど",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  },
+  {
+    "id": 4, 
+    "name": "１ヶ月以上",
+    "delflg": false,
+    "created_at": "2020-01-01",
+    "updated_at": "2020-01-01"
+  }
+]
+}
